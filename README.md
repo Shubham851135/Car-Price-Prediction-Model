@@ -34,7 +34,7 @@ Testing Accuracy (R² Score)
 
 Then it asks you to enter car features and returns a predicted price.
 
-## Requirements
+## Requirements ---
 pandas
 numpy
 matplotlib
