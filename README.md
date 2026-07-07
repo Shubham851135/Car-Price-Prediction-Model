@@ -32,7 +32,10 @@ Testing Error (MSE)
 
 Testing Accuracy (R² Score)
 
-Then it asks you to enter car features and returns a predicted price.
+Then it asks you to enter car features and returns a predicted price.......
+
+
+
 
 ## Requirements ---
 pandas
